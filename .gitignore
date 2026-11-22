@@ -1,0 +1,10 @@
+﻿venv/
+.venv/
+__pycache__/
+*.pyc
+*.h5
+*.keras
+CNN Dog VS Cat/training_set/
+CNN Dog VS Cat/test_set/
+training_set/
+test_set/
